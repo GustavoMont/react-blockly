@@ -1,0 +1,16 @@
+#circle {
+  content: none;
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  background-color: red;
+}
+
+.container {
+  display: flex;
+  gap: 5px;
+}
+
+#canva {
+  border: 2px solid black;
+}
